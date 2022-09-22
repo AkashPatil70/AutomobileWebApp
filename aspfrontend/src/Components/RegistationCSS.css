@@ -1,0 +1,80 @@
+body {font-family: Arial, Helvetica, sans-serif; background: linear-gradient(90deg, #e3e2f0, #e9e8f1);
+  /* background-image : url("Image/background2.jpg");*/} 
+
+input[type=text], input[type=password] {
+  width: 90%;
+  padding: 5px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-left:10px;
+  margin-top: 1mm;
+  border-radius: 2mm;
+ 
+}
+p{
+  color: #eb2a2a;
+  margin-left:110px;
+  font-size: 12px;
+  margin-top: 1mm;
+}
+h1 {
+  color: #000000;
+  font-family: arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 01mm;
+  
+  margin-left:50px;
+ 
+  }
+
+
+
+label {
+  
+  /* font-weight: bold; */
+  margin-left:110px;
+  
+}
+
+button {
+    background-color: #4054aa;
+    color: white;
+    padding: 10px 20px;
+    margin: 18px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    margin-left:110px;
+    border-radius: 1mm;
+    
+  }
+  button:hover {
+    opacity: 0.8;
+  }
+
+  .box{
+    margin-top: 6%;
+    margin-left: 30%;
+    margin-right: 35%;
+    background: linear-gradient(90deg, #c6c1e9, #d4d3e6);	
+    height: 650px;
+    border-radius: 10mm;
+    
+	box-shadow: 0px 0px 24px #5C5696;
+  }
+
+
+  .already
+  {
+    margin-left:110px;
+  
+  }
+
+
+  .Loginlable{
+    font-weight: bold;
+    margin-left:110px;
+  }
